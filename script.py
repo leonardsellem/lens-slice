@@ -14,4 +14,3 @@ priciest_pizza = pizzas[-1]
 three_cheapest = pizzas[:3]
 print(three_cheapest)
 num_two_dollar_slices = prices.count(2)
-print(num_two_dollar_slices)
